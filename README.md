@@ -1,1 +1,1 @@
-# fikiri-digital-ecosystem-prototype
+fikiri-digital-ecosystem-prototype
